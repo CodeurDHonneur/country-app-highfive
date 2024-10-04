@@ -62,7 +62,7 @@ article{
     background-color: white;
     border-radius: 3%;
     padding: 20px;
-    width: 300px;
+    width: 400px;
     height: 500px;
     
   }
@@ -70,11 +70,11 @@ article{
   .liste {
     overflow-y: scroll;
     max-height: 300px;
-    
+    font-size: 18px;
   }
   .parent-image {
     display: inline-block;
-    width: 15px;
+    width: 23px;
     margin-left: 12px;
   }
   ul {
